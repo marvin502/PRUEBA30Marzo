@@ -23,6 +23,11 @@ public class PRUEBA30MARZO {
         System.out.println ( " Nombre:" + "Denis Joel Cifuentes Cano");
         System.out.println ( " Direccion:" + "Zona 1, Chiantla");
         System.out.println ( " Numero cel:" + "45883960");
+        
+        
+         System.out.println("Nombre: Luis Humberto Ruiz Castillo");
+        System.out.println("Direccion: 8va Calle A 11-30 zona 1 interior");
+        System.out.println("Telefono: 37070944");
     }
     
 }
