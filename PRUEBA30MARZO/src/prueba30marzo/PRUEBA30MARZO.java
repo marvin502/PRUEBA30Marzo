@@ -15,7 +15,10 @@ public class PRUEBA30MARZO {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        System . out . println ( " Nombre:" + "Marvin Arnoldo Ordoñez Jimenez");
+        System . out . println ( " Direccion:" + "zona 8 Huehuetenango");
+        System . out. println ( " Numero cel:" + "48548846");
     }
     
 }
