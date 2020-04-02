@@ -37,6 +37,10 @@ public class PRUEBA30MARZO {
         System.out.println("Geovanni Alfredo Argueta Anzueto");
         System.out.println("5av 3-67 Zona 6");
         System.out.println("55748374");
+        
+        System.out.println("Daniel Alonzo Herrera ");
+        System.out.println("7a. AVE 9-81 Zona 5, Huehuetenango, Huehuetenango ");
+        System.out.println("3059-6671 ");
 
     }
     
