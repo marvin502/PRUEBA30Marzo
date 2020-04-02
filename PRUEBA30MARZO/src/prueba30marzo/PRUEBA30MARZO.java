@@ -16,9 +16,13 @@ public class PRUEBA30MARZO {
      */
     public static void main(String[] args) {
         
-        System . out . println ( " Nombre:" + "Marvin Arnoldo Ordoñez Jimenez");
-        System . out . println ( " Direccion:" + "zona 8 Huehuetenango");
-        System . out. println ( " Numero cel:" + "48548846");
+        System.out.println ( " Nombre:" + "Marvin Arnoldo Ordoñez Jimenez");
+        System.out.println ( " Direccion:" + "zona 8 Huehuetenango");
+        System.out.println ( " Numero cel:" + "48548846");
+        
+        System.out.println ( " Nombre:" + "Denis Joel Cifuentes Cano");
+        System.out.println ( " Direccion:" + "Zona 1, Chiantla");
+        System.out.println ( " Numero cel:" + "45883960");
     }
     
 }
